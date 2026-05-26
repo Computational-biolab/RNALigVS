@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+biopython
+py3Dmol
+pillow
+rdkit
+setuptools
+wheel
+scipy
