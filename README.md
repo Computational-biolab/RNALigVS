@@ -34,7 +34,7 @@ RNALigVS employs a KD-tree accelerated NeighborSearch algorithm for efficient RN
 # Workflow
 
 <p align="center">
-  <img src="docs/workflow.png" width="900">
+  <img src="docs/graphical_abstract.png" width="900">
 </p>
 
 The RNALigVS workflow includes:
