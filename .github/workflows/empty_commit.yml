@@ -1,4 +1,4 @@
-name: Empty Commit Every 10 Hours
+name: Empty Commit Every 5 Hours
 
 on:
   schedule:
